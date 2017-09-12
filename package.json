@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "neuron network learning demo",
   "main": "index.js",
+  "start": "node index.js",
   "dependencies": {
     "synaptic": "^1.1.2"
   },
