@@ -1,0 +1,29 @@
+{
+  "name": "gerty-ai",
+  "version": "1.0.0",
+  "description": "neuron network learning demo",
+  "main": "index.js",
+  "dependencies": {
+    "synaptic": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FJancsi/gerty-ai.git"
+  },
+  "keywords": [
+    "neuron",
+    "network",
+    "AI",
+    "gerty"
+  ],
+  "author": "Janos Fekete",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FJancsi/gerty-ai/issues"
+  },
+  "homepage": "https://github.com/FJancsi/gerty-ai#readme"
+}
